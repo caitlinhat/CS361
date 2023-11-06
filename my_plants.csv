@@ -1,0 +1,5 @@
+"plant_id";"name";"nickname";"water";"light";"store";"price";"purchase_date";"food"
+1;"Epipremnum aureum";"Pothos";"Once every 1-2 weeks";"Partial shade";"Round Rock Garden Center";12.99;"2023-10-08";"Twice monthly"
+4;"Chlorophytum comosum";"Spider plant";"weekly";"bright";"";0.0;"";"monthly"
+5;"Hedera helix";"English ivy";"weekly";"medium";"";0.0;"";"twice a month"
+6;"Zamioculcas zamiifoli";"ZZ plant";"twice monthly";"bright indirect";"";0.0;"";"every 6 months"
